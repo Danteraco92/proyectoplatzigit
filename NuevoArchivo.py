@@ -6,5 +6,5 @@ if Hrs <= 50.0 :
     print ("Contactate con tu jefe para que te suban el sueldo")
 else :
     print (((Hrs - 40) * 1.5 * Rate) + (40 * Rate))
-    print ("Dile a tu jefe que gracias por el overtime")
+    print ("Dile a tu jefe que se chingue el overtime")
     print ("Este es tu pago semanal sin deducciones :" ((Hrs - 40) * 1.5 * Rate) + (40 * Rate))
